@@ -1,0 +1,50 @@
+.container {
+  overflow: hidden;
+}
+
+
+.block {
+  margin: 10px; 
+  background-color: #ddd; 
+  border: 1px solid #333; 
+  height: 100px; 
+  width: 150px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.right1 {
+  float: right;
+  height: 45px;
+}
+.right2 {
+  float: right;
+  height: 45px;
+  margin-top: 70px;
+  margin-right: -162px;
+}
+.center {
+  margin: auto;
+}
+.center1 {
+  height: 45px;
+  float: left;
+  margin-left: 514px;
+  margin-top: 0;
+}
+.center2 {
+  height: 45px;
+  float: right;
+  margin-top: 0;
+  margin-right: 182px;
+}
